@@ -1,0 +1,28 @@
+{
+    "Coffee - Colombian, Whole Bean": [
+        "Next day shipping",
+        "Same day delivery",
+        "In-store pick-up",
+        "Parcel locker"
+    ],
+    "Chocolate - Dark, 70% Cacao": [
+        "Same day delivery",
+        "Express Collection",
+        "Courier",
+        "Mailbox delivery"
+    ],
+    "Apples - Granny Smith, Organic": [
+        "Next day shipping",
+        "In-store pick-up",
+        "Parcel locker"
+    ],
+    "Chicken - Boneless, Skinless Breast": [
+        "Next day shipping",
+        "In-store pick-up",
+        "Courier"
+    ],
+    "Yogurt - Greek, Plain": [
+        "In-store pick-up",
+        "Parcel locker"
+    ]
+}

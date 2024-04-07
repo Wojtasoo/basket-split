@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "17c3836ae17c43e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eba119fa215c133",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "137e4abd425591c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basket-Splitter Task.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "48fbfe1eff4cfbd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d413f6403f9d9b9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce2833db78dec114",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c78c3dda714d9e81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1eca6941b49bb783",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d7523e17e0ef3af",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c915a28d09d62f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd8381e2c052d594",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Basket-Splitter Task.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2b0e087e506423e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Basket-Splitter Task.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d03a67a7a45dfb7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a434b1ca2a7d5b02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Basket-Splitter Task.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "137e4abd425591c8",
+  "lastOpenFiles": [
+    "buildSrc/build/tmp/compileJava/previous-compilation-data.bin",
+    "buildSrc/build/classes/java/main/BuildlogicJavaLibraryConventionsPlugin.class",
+    "buildSrc/build/classes/java/main/BuildlogicJavaCommonConventionsPlugin.class",
+    "buildSrc/build/classes/java/main/BuildlogicJavaApplicationConventionsPlugin.class",
+    "app/build/test-results/test/binary/results.bin",
+    "app/build/test-results/test/binary/output.bin.idx",
+    "app/build/classes/java/main/com/ocado/basket/BasketSplitter$2.class",
+    "app/build/classes/java/main/com/ocado/basket/BasketSplitter$1.class",
+    "Untitled.canvas",
+    "Basket-Splitter Task.md",
+    "app/build/distributions/app-shadow.zip",
+    "app/build/distributions/app-shadow.tar",
+    "app/build/scriptsShadow/app.bat"
+  ]
+}
